@@ -4,7 +4,7 @@ Function to convert given flattened JSON into a hierarchical JSON.
 
 1. Include the class file jsonConvert.php into the code file where you want to convert flattened JSON into a hierarchical JSON or you can copy the class directly.
 
-2. Get the content of json file( you can use file_get_content method) and decode it into an array.
+2. Get the content of json file( you can use file_get_content method) and decode it into an array or you can pass the json array directly after decoding 
 
 3. Call the function with required parameters.
 
